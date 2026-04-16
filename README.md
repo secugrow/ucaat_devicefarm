@@ -1,4 +1,4 @@
-# New Development moved to https://github.com/appibridgebox
+# New Development moved to https://github.com/appibridgebox/setup_appibridgebox
 
 
 
